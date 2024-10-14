@@ -1,0 +1,18 @@
+body{
+    color:blueviolet;
+    background-color: lightpink;
+}
+.blackAndWhite{
+    background-color: black;
+    color: azure;
+}
+span.blackAndWhite{
+    background-color: black;
+    color: azure;
+}
+#specificHeader{
+    font-size: 60;
+    font-weight:bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color:firebrick;
+}
